@@ -1,0 +1,22 @@
+.main-page{
+  height: 100vh;
+background-image: url('./login.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo-img{
+  width: 400px;
+}
+.desc{
+  color: #fff;
+  font-size: 24px;
+  padding: 10px;
+}
+.rights{
+  color: gray;
+  font-size: 16px;
+  position: absolute;
+  bottom: 0;
+}
